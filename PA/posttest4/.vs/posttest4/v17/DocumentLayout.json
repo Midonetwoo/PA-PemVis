@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|d:\\kuliah\\praktikum\\pemrograman visual\\posttest4\\posttest4\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7CC05017-142B-4685-A2E9-AB6150BF063F}|posttest4\\posttest4.vbproj|solutionrelative:posttest4\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form6.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form6.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form6.vb",
+              "RelativeToolTip": "posttest4\\Form6.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T17:51:02.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form3.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form3.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form3.vb",
+              "RelativeToolTip": "posttest4\\Form3.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T17:50:35.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form1.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form1.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form1.vb",
+              "RelativeToolTip": "posttest4\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T17:18:23.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form4.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form4.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form4.vb",
+              "RelativeToolTip": "posttest4\\Form4.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T17:00:09.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form7.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form7.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form7.vb [Design]",
+              "RelativeToolTip": "posttest4\\Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T16:50:24.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form6.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form6.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form6.vb [Design]",
+              "RelativeToolTip": "posttest4\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T16:44:24.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form4.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form4.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form4.vb [Design]",
+              "RelativeToolTip": "posttest4\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T16:44:15.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form3.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form3.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form3.vb [Design]",
+              "RelativeToolTip": "posttest4\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T16:43:52.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form1.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form1.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form1.vb [Design]",
+              "RelativeToolTip": "posttest4\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T16:39:28.357Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Module1.vb",
+              "RelativeDocumentMoniker": "posttest4\\Module1.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Module1.vb",
+              "RelativeToolTip": "posttest4\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T15:39:53.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form2.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form2.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form2.vb",
+              "RelativeToolTip": "posttest4\\Form2.vb",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAtwH8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T15:35:39.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form2.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form2.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form2.vb [Design]",
+              "RelativeToolTip": "posttest4\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T15:35:36.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form5.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form5.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form5.vb",
+              "RelativeToolTip": "posttest4\\Form5.vb",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv1QAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T15:26:01.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form5.vb",
+              "RelativeDocumentMoniker": "posttest4\\Form5.vb",
+              "ToolTip": "D:\\Kuliah\\Praktikum\\Pemrograman Visual\\posttest4\\posttest4\\Form5.vb [Design]",
+              "RelativeToolTip": "posttest4\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T15:25:57.987Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
